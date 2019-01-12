@@ -10,3 +10,8 @@ using:
 * aes to encrypt user data
 * different methods for face recognition based on EMGU CV (.Net wrapper for opencv library)
 * SourceAFIS framework for fingerprint matcher
+
+program images:
+* [fingerprint detection module](docs/12.png)
+* [new user form](docs/10.png)
+* [main menu](docs/11.png)
